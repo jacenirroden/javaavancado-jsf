@@ -1,0 +1,9 @@
+.metadata/
+.recommenders
+RemoteSystemsTempFiles/
+Servers
+
+#pastas e arquivos do projeto
+.settings/
+*.class
+lib/*.jar
